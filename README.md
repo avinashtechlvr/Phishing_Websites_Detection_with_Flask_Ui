@@ -1,11 +1,12 @@
 # Phishing_Websites_Detection_with_Flask_Ui
 
-##Requirements : 
+#Requirements : 
+
  Mongo DB Atlas database 
  A Computer or laptop with Windows OS along with python 3.8 above.
  Chrome Browser (optional)
 
-##Procedure : 
+#Procedure : 
 
 To test or try out our project **Phishing Websites Detection with Flask UI**, simply download or clone this repository.
 
