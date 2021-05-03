@@ -1,7 +1,6 @@
 import pymongo
 
-client = pymongo.MongoClient(
-    "mongodb+srv://miniproject:Passmdb435.@sandbox.sqigw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+client = pymongo.MongoClient( "Here insert your Mongo DB connection link in quotes")
 
 db = client["phishing_website"]
 collection = db["phishing_website"]
